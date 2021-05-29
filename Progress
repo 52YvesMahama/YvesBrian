@@ -1,0 +1,55 @@
+
+ALTER TABLE tablename ENGINE=InnoDB;
+
+
+Dashboard
+
+    - All activities centered.
+    - dropdown
+
+--
+
+add a new prisoner
+
+    After adding a new prisoner it should display a message. Record added.
+
+    - ID should not be twice
+    - Prisoner name not be twice in the same table
+    - only 18 years old and above
+    - Phone number should not be many in the same table
+    - radio batton (Gender, sex)
+    - Dropdown for status
+    - 
+    - 
+
+----------------
+main transaction
+----------------
+
+- Allocating staff a block
+- Allocating a new prisoner a cell
+- End of the period the system releases him from the prison
+- if a prisoner is pardonned. the system should do something.
+- 
+
+
+
+------------To fix--------------
+
+- While signing UP. bring an error is the staff ID, is already given to another person. else redirects to the admin.
+- hash password
+- after logged in, Welcome User name :
+
+
+- Update Staff information. error at (process.php line 84)
+
+- add a user in the dashboard
+- to update a staff in (addnewstaff)
+- Update Activity Prisoner (Css arranging)
+- Add next kin (picking) value 0
+- Css for Login IN
+- Prisoner view activity (css)
+- User view list (css)
+
+- Add prisoner to a cell (css)
+- Successful Page (Css not recognized)
